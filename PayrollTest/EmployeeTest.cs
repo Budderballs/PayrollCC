@@ -16,7 +16,7 @@ namespace PayrollCCTest
             int empID = 6969;
             decimal monthlyPay = 10000m;
 
-            var employee = new SaleriedEmployeeTest(fName, lName, age, empID, monthlyPay);
+            var employee = new SaleriedEmployee(fName, lName, age, empID, monthlyPay);
             bool result;
 
             if (employee is Employee) { result = true; }

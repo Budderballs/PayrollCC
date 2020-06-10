@@ -34,7 +34,6 @@ namespace PayrollCCTest
             int hoursWorked = 40;
 
             var employee = new HourlyEmployee(fName, lName, age, empID, hourlyPay, hoursWorked);
-            bool result;
             var result2 = employee.calcPay();
             Assert.AreEqual("$263.40", result2);
         }
