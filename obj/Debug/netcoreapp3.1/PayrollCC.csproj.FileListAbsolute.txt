@@ -1,0 +1,13 @@
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\obj\Debug\netcoreapp3.1\PayrollCC.csprojAssemblyReference.cache
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\obj\Debug\netcoreapp3.1\PayrollCC.csproj.CoreCompileInputs.cache
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\obj\Debug\netcoreapp3.1\PayrollCC.AssemblyInfoInputs.cache
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\obj\Debug\netcoreapp3.1\PayrollCC.AssemblyInfo.cs
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\bin\Debug\netcoreapp3.1\PayrollCC.exe
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\bin\Debug\netcoreapp3.1\PayrollCC.deps.json
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\bin\Debug\netcoreapp3.1\PayrollCC.runtimeconfig.json
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\bin\Debug\netcoreapp3.1\PayrollCC.runtimeconfig.dev.json
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\bin\Debug\netcoreapp3.1\PayrollCC.dll
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\bin\Debug\netcoreapp3.1\PayrollCC.pdb
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\obj\Debug\netcoreapp3.1\PayrollCC.dll
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\obj\Debug\netcoreapp3.1\PayrollCC.pdb
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\obj\Debug\netcoreapp3.1\PayrollCC.genruntimeconfig.cache
