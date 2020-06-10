@@ -1634,6 +1634,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "PayrollCC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PayrollCC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PayrollCC.dll": {}
+        }
       }
     }
   },
@@ -5630,6 +5640,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "PayrollCC/1.0.0": {
+      "type": "project",
+      "path": "../Payroll/PayrollCC.csproj",
+      "msbuildProject": "../Payroll/PayrollCC.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5637,6 +5652,7 @@
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "PayrollCC >= 1.0.0",
       "coverlet.collector >= 1.2.0"
     ]
   },
@@ -5647,11 +5663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Projects\\PayrollCCTest.csproj",
+      "projectUniqueName": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\PayrollTest\\PayrollCCTest.csproj",
       "projectName": "PayrollCCTest",
-      "projectPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Projects\\PayrollCCTest.csproj",
+      "projectPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\PayrollTest\\PayrollCCTest.csproj",
       "packagesPath": "C:\\Users\\Colton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Projects\\obj\\",
+      "outputPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\PayrollTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5669,7 +5685,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Payroll\\PayrollCC.csproj": {
+              "projectPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Payroll\\PayrollCC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

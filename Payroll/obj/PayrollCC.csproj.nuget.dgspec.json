@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Project2\\PayrollCC.csproj": {}
+    "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Payroll\\PayrollCC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Project2\\PayrollCC.csproj": {
+    "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Payroll\\PayrollCC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Project2\\PayrollCC.csproj",
+        "projectUniqueName": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Payroll\\PayrollCC.csproj",
         "projectName": "PayrollCC",
-        "projectPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Project2\\PayrollCC.csproj",
+        "projectPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Payroll\\PayrollCC.csproj",
         "packagesPath": "C:\\Users\\Colton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Project2\\obj\\",
+        "outputPath": "C:\\Users\\Colton\\Desktop\\College Stuff\\Finals\\PayrollCCv3\\PayrollCC\\Payroll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -101,3 +101,9 @@ C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\Projects\obj\
 C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\Projects\obj\Debug\netcoreapp3.1\PayrollCCTest.AssemblyInfo.cs
 C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\Projects\obj\Debug\netcoreapp3.1\PayrollCCTest.dll
 C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\Projects\obj\Debug\netcoreapp3.1\PayrollCCTest.pdb
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\PayrollTest\obj\Debug\netcoreapp3.1\PayrollCCTest.csprojAssemblyReference.cache
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\PayrollTest\obj\Debug\netcoreapp3.1\PayrollCCTest.csproj.CoreCompileInputs.cache
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\PayrollTest\obj\Debug\netcoreapp3.1\PayrollCCTest.AssemblyInfoInputs.cache
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\PayrollTest\obj\Debug\netcoreapp3.1\PayrollCCTest.AssemblyInfo.cs
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\PayrollTest\obj\Debug\netcoreapp3.1\PayrollCCTest.dll
+C:\Users\Colton\Desktop\College Stuff\Finals\PayrollCCv3\PayrollCC\PayrollTest\obj\Debug\netcoreapp3.1\PayrollCCTest.pdb
