@@ -11,7 +11,10 @@ namespace PayrollCC
 
             while (true)
             {
-                Menu.menuStrings();
+                Console.WriteLine("1: Add saleried employee");
+                Console.WriteLine("2: Add hourly employee");
+                Console.WriteLine("3: Run reports");
+                Console.WriteLine("4: Close Payroll tool");
                 Menu.menuNav(employeeList);
             }
         }

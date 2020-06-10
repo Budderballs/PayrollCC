@@ -6,10 +6,10 @@ namespace PayrollCC
 {
     public class SaleriedEmployee : Employee
     {
-        public decimal monthlyPay;
-        public decimal weeklyPay;
-        public decimal FICA;
-        public decimal FEDTax;
+        public decimal monthlyPay { get;}
+        public decimal weeklyPay { get;}
+        public decimal FICA { get;}
+        public decimal FEDTax { get;}
 
         public SaleriedEmployee(string fname, string lname, int age, int empID, decimal monthlyPay) : base(fname, lname, age, empID)
         {

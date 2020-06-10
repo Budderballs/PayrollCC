@@ -7,10 +7,10 @@ namespace PayrollCC
     public abstract class Employee
     {
         //Data
-        string fName;
-        string lName;
-        int age;
-        int empID;
+        string fName { get; }
+        string lName { get; }
+        int age { get; }
+        int empID { get; }
 
         //Props
         public string fullName { get { return lName + ", " + fName; } }
